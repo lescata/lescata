@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lescata
-- 👀 I’m interested in ...finishing 42
-- 🌱 I’m currently learning .....>>>>>>C<<<<<<<
-- 📫 How to reach me ... Insta/Intra42/email
+- 👀 I’m interested in ...Code Money and yatch
+- 🌱 I’m currently learning .....>>>>>>web<<<<<<<
+- 📫 How to reach me ... Insta/phone/email
 
 <!---
 Lescata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
